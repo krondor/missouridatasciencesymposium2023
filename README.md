@@ -5,4 +5,5 @@ watsonx workshop for 2023 Missouri Data Science and Informatics Symposium
 
 ### Project Files
 [watsonx workshop with data](https://ibm.box.com/v/mizzouworkshop-fulldata)
-[watsonx workshop without data]()
+
+[watsonx workshop without data](https://github.com/krondor/missouridatasciencesymposium2023/raw/main/watsonx-workshop-nodata.zip)
